@@ -1,0 +1,50 @@
+body
+{
+	margin: 0px;
+	height: 586px;
+	width: 100%;
+}
+
+#menu
+{
+	text-align: left;
+	background-color: #485b3b;
+	color: white;
+	padding-bottom: 150px;
+	width: 18%;
+	padding-left: 10px;
+	line-height: 2;
+	margin: 0px;
+	font-size: 20px;
+	border: 2px solid #33402a;
+	height: 100%;
+}
+
+#naglowek
+{
+	text-transform: uppercase;
+}
+
+a:link
+{
+	color: white;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: white;
+	text-decoration: none;
+}
+
+a:hover
+{
+	color: gray;
+	text-decoration: underline;
+}
+
+a:active
+{
+	color: white;
+	text-decoration: none;
+}
